@@ -1,8 +1,8 @@
 ### PID-Steering Control ###
 
-##### PID Control implementation to compute steering angle of car using Cross Track Error. #####
-
 Submitted by - Vishal Rangras
+
+##### PID Control implementation to compute steering angle of car using Cross Track Error. #####
 
 The goals for this project are to:
 
@@ -23,5 +23,5 @@ The goals for this project are to:
 
 ### Reflection ###
 
-See **[Reflection](./Reflection.md) **
+See **[Reflection](./Reflection.md)**
 

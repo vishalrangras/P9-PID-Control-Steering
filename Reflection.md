@@ -64,5 +64,5 @@ Ki on the other hand compensate for overall cummulative error introduced to the 
 
 In my final iteration, I will be using the best working setting of Kp, Ki and Kd which I acheived in Iteration 12.
 
-Final Iteration:
--0.20 -0.0001 -4.0: This setting gave me the top speed of 33 mph with least oscillations and without the car leaving the track. I am hardcoding this value in the main.cpp so that the code can be executed without passing command line arguments.
+**Final Iteration:**
+`kp:-0.20 ki:-0.0001 kd-4.0:` This setting gave me the top speed of 33 mph with least oscillations and without the car leaving the track. I am hardcoding this value in the main.cpp so that the code can be executed without passing command line arguments.
