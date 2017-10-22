@@ -23,5 +23,5 @@ The goals for this project are to:
 
 ### Reflection ###
 
-See **[Reflection](https://review.udacity.com/#!/rubrics/824/view) **
+See **[Reflection](./Reflection.md) **
 
